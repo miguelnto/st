@@ -45,7 +45,7 @@ This section is under development.
 
 ## Credits
 
-Thanks to:
+Credits to:
 
 - (2014-2018) Hiltjo Posthuma 
 - (2018) Devin J. Pohly
@@ -61,5 +61,3 @@ Thanks to:
 - (2013) Michael Forney
 - (2013-2014) Markus Teich
 - (2014-2015) Laslo Hunhold
-
-For contributing to the source code of `st`.
